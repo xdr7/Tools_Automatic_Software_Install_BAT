@@ -27,9 +27,18 @@ Catatan:
     Pastikan terkoneksi internet
     Jalankan sebagai Administrator untuk menghindari masalah permission
     File installer akan disimpan di folder %TEMP%
+    Silahkan tambahkan atau edit sesuai kebutuhan kalian software yang akan diinstall
 
+
+
+Created By Asmaul Asni Subegi, S.Kom
+
+Computer Science Alumni, Mathematic and Science Faculty, 
+Mulawarman University Samarinda, East Kalimantan,
 
 
 <img width="982" height="244" alt="1" src="https://github.com/user-attachments/assets/8c7c8038-9d3e-42a1-9fdc-3debea772b68" />   
+
 <img width="982" height="154" alt="2" src="https://github.com/user-attachments/assets/5b83a815-0ad2-4d49-b2ba-0e0809b2190e" />
+
 <img width="975" height="296" alt="3" src="https://github.com/user-attachments/assets/0220b24a-10f6-440b-8d0b-e214dc20de9a" />

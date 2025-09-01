@@ -149,5 +149,8 @@ goto menu
 
 :exit
 echo Terima kasih telah menggunakan installer ini!
+echo https://github.com/xdr7/Tools_Automatic_Software_Install_BAT
+echo by Asmaul Asni S, S.Kom
 timeout /t 3 >nul
+
 exit
